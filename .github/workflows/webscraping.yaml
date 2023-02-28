@@ -2,7 +2,7 @@ name: run Rpa-Wm.py
 
 on:
   schedule:
-    - cron: '*55 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   run_schedule:
