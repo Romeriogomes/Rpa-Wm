@@ -10,7 +10,7 @@ jobs:
     steps:
 
       - name: check conteudo do repositorio
-        uses: actions/checout@v3
+        uses: actions/checkout@v3
 
       - name: instalar python
         uses: actions/setup-python@v4
