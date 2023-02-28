@@ -1,0 +1,23 @@
+name: run Rpa-Wm.py
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  run_schedule:
+    runs_on: ubuntu-latest
+    steps:
+
+      - name: check conteudo do repositorio
+        uses: actions/checout@v3
+
+      - name: instalar python
+        uses: actions/setup-python@v4
+
+      - name: instalar os todos os pacotes
+        run: pupython - m pip3 install pip install -r requirements.txt
+       
+
+      - name: executar arquivo de scrapping
+        run: python Rpa-wm.py
