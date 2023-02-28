@@ -20,4 +20,4 @@ jobs:
        
 
       - name: executar arquivo de scrapping
-        run: python Rpa-wm.py
+        run: python Rpa-Wm.py
