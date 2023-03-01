@@ -17,9 +17,6 @@ from selenium.webdriver.chrome import options
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from time import sleep
-import re
-from bs4 import BeautifulSoup
-import requests
 from datetime import date
 import pandas as pd
 from selenium.webdriver.support.wait import WebDriverWait
