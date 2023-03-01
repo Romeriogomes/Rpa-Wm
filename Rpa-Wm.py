@@ -35,7 +35,7 @@ link = "https://app.wefleet.com.br/site/wmrastreamento/Account/Login?ReturnUrl=h
 navegador.get(url=link)
 
 data_Hoje = date.today()
-data_Hotem = date.fromordinal(data_Hoje.toordinal()-1)
+data_Hotem = date.fromordinal(data_Hoje.toordinal()-3)
 dataHotenFormat = data_Hotem.strftime("%d/%m/%Y")
 inputuser = navegador.find_element(By.NAME,value="email")
 inputuser.send_keys("performance@planaltocase.com.br")
