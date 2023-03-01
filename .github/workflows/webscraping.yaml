@@ -36,8 +36,8 @@ jobs:
 
       - name: Commit and push File csv
         run: |-
-          git config user.name "Romeriogomes"
-          git config user.email "jose.romerio.soares@gmail.com"
+          git config --global user.name "Romeriogomes"
+          git config --global user.email "jose.romerio.soares@gmail.com"
           git add relatorio.csv
           git commit -m "Arquivo atualizado"
           git push
