@@ -124,7 +124,7 @@ for i in range(1, int(ultimaPagina)):
     Motorista = Motoristas[0]
 
 
-    #sleep(10)
+    sleep(2)
     for placa in placas : #loop para gravar cada elemento ao df
         dic_Linhas['placa'].append(placa.text)
         df1 = pd.DataFrame(dic_Linhas,columns=['placa'])
