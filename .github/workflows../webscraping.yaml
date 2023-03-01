@@ -32,3 +32,11 @@ jobs:
 
       - name: executar arquivo de scrapping
         run: python Rpa-Wm.py
+
+       - name: Commit and push File csv
+        run: |-
+        git config user.name "Romeriogomes"
+        git config user.email "actions@users.noreply.github.com"
+        git add relatorio.csv
+        git commit -m "Arquivo atualizado"
+        git push
