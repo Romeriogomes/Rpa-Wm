@@ -18,6 +18,11 @@ jobs:
       - name: instalar Selenium
         run: pip3 install selenium
 
+      - name: instalar web driver
+        run: pip install webdriver-manager
+
+      
+
       - name: instalar os todos os pacotes
         run: python - m pip install pip install -r requirements.txt
        
