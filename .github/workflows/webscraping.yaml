@@ -38,6 +38,7 @@ jobs:
         run: |-
           git config --global user.name "Romeriogomes"
           git config --global user.email "jose.romerio.soares@gmail.com"
+          git fetch
           git add relatorio.csv
           git commit -m "Arquivo atualizado"
           git push
