@@ -103,7 +103,7 @@ for i in range(1, int(ultimaPagina)):
     Descricaos = wait.until(EC.element_to_be_clickable((By.XPATH,'//*[@data-bind="text: desc"]')))\
         .find_elements(By.XPATH,value='//*[@data-bind="text: desc"]')
     Padraos = wait.until(EC.element_to_be_clickable((By.XPATH,'//*[@data-bind="text: padrao"]')))\
-        .find_elements(By.XPATH,value='//*[@data-bind="text: desc"]')
+        .find_elements(By.XPATH,value='//*[@data-bind="text: padrao"]')
     Valores = wait.until(EC.element_to_be_clickable((By.XPATH,'//*[@data-bind="text: valor"]')))\
         .find_elements(By.XPATH,value='//*[@data-bind="text: valor"]')
     Velocidades = wait.until(EC.element_to_be_clickable((By.XPATH,'//*[@data-bind="text: vel"]')))\
