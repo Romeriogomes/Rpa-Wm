@@ -21896,3 +21896,365 @@ RIO VERDE SER (RTG-5H51);11/03/2023 08:08;Parado com Ignição Ligada;10;41;2;Ro
 FAZENDA MT (PRM-4436);11/03/2023 08:08;Parado com Ignição Ligada;10;11;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
 RIO VERDE SER (RVD-3H57);11/03/2023 19:52;Ignição Fora do Horário;0;0;0;Rua Jacarandá, Rio Verde, Goiás, Brasil.;ELIFFAS ZEFERINO MARQUES-SERVIÇOS
 FAZENDA MT (PQY-6H02);11/03/2023 15:18;Rodagem Fora do Horário;1;23;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";HERVANIO MIRANDA DE OLIVEIRA-FAZENDAS
+MINEIROS PÇA (PQY-6742);12/03/2023 08:58;Ignição Fora do Horário;0;0;0;Avenida Antônio Carlos Paniago, Mineiros, Goiás, Brasil.;LUCAS DIAS VILELA-PEÇAS
+;12/03/2023 08:58;Rodagem Fora do Horário;1;2;1;Avenida Antônio Carlos Paniago, Mineiros, Goiás, Brasil.;LUCAS DIAS VILELA-PEÇAS
+;12/03/2023 12:14;Ignição Fora do Horário;0;0;0;Avenida Ernesto e de Rezende, Mineiros, Goiás, Brasil.;
+RIO VERDE COM (SCF-4J35);12/03/2023 09:43;Ignição Fora do Horário;0;0;0;Rua 6, Rio Verde, Goiás, Brasil.;AILTO CAETANO FARIAS JUNIOR-COMERCIAL
+;12/03/2023 10:27;Ignição Fora do Horário;0;0;0;Rua Vitalina Carneiro Arantes, Rio Verde, Goiás, Brasil.;AILTO CAETANO FARIAS JUNIOR-COMERCIAL
+;12/03/2023 23:05;Ignição Fora do Horário;0;0;0;Rua 6, Rio Verde, Goiás, Brasil.;AILTO CAETANO FARIAS JUNIOR-COMERCIAL
+RIO VERDE COM (SCH-3D73);12/03/2023 11:18;Ignição Fora do Horário;0;0;0;Rua 117, Rio Verde, Goiás, Brasil.;RAFAEL FURQUIM MOREIRA-COMERCIAL
+;12/03/2023 11:20;Ignição Fora do Horário;0;0;0;Rua 117, Rio Verde, Goiás, Brasil.;RAFAEL FURQUIM MOREIRA-COMERCIAL
+;12/03/2023 11:21;Rodagem Fora do Horário;1;8;14;Rua 117, Rio Verde, Goiás, Brasil.;RAFAEL FURQUIM MOREIRA-COMERCIAL
+;12/03/2023 11:30;Ignição Fora do Horário;0;0;0;Avenida Presidente Vargas, Rio Verde, Goiás, Brasil.;RAFAEL FURQUIM MOREIRA-COMERCIAL
+;12/03/2023 11:41;Ignição Fora do Horário;0;0;0;Rua 29, Rio Verde, Goiás, Brasil.;RAFAEL FURQUIM MOREIRA-COMERCIAL
+;12/03/2023 13:58;Ignição Fora do Horário;0;0;0;Rua 30, Rio Verde, Goiás, Brasil.;RAFAEL FURQUIM MOREIRA-COMERCIAL
+FAZENDA MT (RCG-9I28);12/03/2023 06:21;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 06:21;Rodagem Fora do Horário;1;192;6;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 06:30;Ignição Fora do Horário;0;0;7;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 07:05;Ignição Fora do Horário;0;0;6;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 07:10;Ignição Fora do Horário;0;0;12;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 07:29;Ignição Fora do Horário;0;0;8;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 07:36;Ignição Fora do Horário;0;0;15;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 07:40;Ignição Fora do Horário;0;0;8;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 07:47;Ignição Fora do Horário;0;0;6;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 08:38;Ignição Fora do Horário;0;0;10;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 08:56;Ignição Fora do Horário;0;0;1;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 09:16;Velocidade Excedida (Virtual);110;116;116;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 09:18;Velocidade Excedida (Virtual);110;120;120;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 09:20;Velocidade Excedida (Virtual);110;125;125;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 09:22;Velocidade Excedida (Virtual);110;111;111;"BR-158;BR-242, Ribeirão Cascalheira, Mato Grosso, Brasil.";
+;12/03/2023 09:24;Velocidade Excedida (Virtual);110;112;112;"BR-158;BR-242, Ribeirão Cascalheira, Mato Grosso, Brasil.";
+;12/03/2023 09:42;Ignição Fora do Horário;0;0;5;Avenida Padre João Bosco, Ribeirão Cascalheira, Mato Grosso, Brasil.;
+;12/03/2023 09:46;Ignição Fora do Horário;0;0;0;Avenida Padre João Bosco, Ribeirão Cascalheira, Mato Grosso, Brasil.;
+;12/03/2023 09:50;Ignição Fora do Horário;0;0;0;Avenida Padre João Bosco, Ribeirão Cascalheira, Mato Grosso, Brasil.;
+;12/03/2023 10:06;Velocidade Excedida (Virtual);110;123;123;"BR-158;BR-242, Ribeirão Cascalheira, Mato Grosso, Brasil.";
+;12/03/2023 10:10;Velocidade Excedida (Virtual);110;111;111;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 10:12;Velocidade Excedida (Virtual);110;111;111;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 10:14;Velocidade Excedida (Virtual);110;111;111;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 11:04;Ignição Fora do Horário;0;0;1;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 12:12;Ignição Fora do Horário;0;0;9;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 13:19;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 15:00;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 15:07;Ignição Fora do Horário;0;0;5;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+RIO VERDE PÇA (RMT-1J25);12/03/2023 08:07;Ignição Fora do Horário;0;0;0;Rua Major Rocha, Rio Verde, Goiás, Brasil.;JOSE FLEURY DA COSTA-PEÇAS
+;12/03/2023 08:07;Rodagem Fora do Horário;1;44;0;Rua Major Rocha, Rio Verde, Goiás, Brasil.;JOSE FLEURY DA COSTA-PEÇAS
+;12/03/2023 08:23;Velocidade Excedida (Virtual);110;120;120;BR-060, Santo Antônio da Barra, Goiás, Brasil.;JOSE FLEURY DA COSTA-PEÇAS
+;12/03/2023 08:25;Velocidade Excedida (Virtual);110;120;120;BR-060, Santo Antônio da Barra, Goiás, Brasil.;JOSE FLEURY DA COSTA-PEÇAS
+;12/03/2023 11:37;Ignição Fora do Horário;0;0;1;BR-060, Santo Antônio da Barra, Goiás, Brasil.;JOSE FLEURY DA COSTA-PEÇAS
+;12/03/2023 13:41;Ignição Fora do Horário;0;0;0;BR-060, Santo Antônio da Barra, Goiás, Brasil.;JOSE FLEURY DA COSTA-PEÇAS
+;12/03/2023 13:48;Velocidade Excedida (Virtual);110;111;111;BR-060, Santo Antônio da Barra, Goiás, Brasil.;JOSE FLEURY DA COSTA-PEÇAS
+JATAI SER (RVD-9C63);12/03/2023 10:00;Ignição Fora do Horário;0;0;0;Rua RG 13, Rio Verde, Goiás, Brasil.;ALEXANDRE FERREIRA SOUZA-AFS
+;12/03/2023 10:00;Rodagem Fora do Horário;1;112;0;Rua RG 13, Rio Verde, Goiás, Brasil.;ALEXANDRE FERREIRA SOUZA-AFS
+;12/03/2023 10:08;Ignição Fora do Horário;0;0;9;Rua Agenor Diamantino, Rio Verde, Goiás, Brasil.;
+JATAI SER (RVD-9C63);12/03/2023 10:40;Ignição Fora do Horário;0;0;0;Rua 25, Rio Verde, Goiás, Brasil.;
+;12/03/2023 13:06;Ignição Fora do Horário;0;0;2;Rua 10, Rio Verde, Goiás, Brasil.;
+;12/03/2023 14:07;Ignição Fora do Horário;0;0;0;Rua O, Rio Verde, Goiás, Brasil.;
+JATAI SER (RVD-9C30);12/03/2023 07:40;Ignição Fora do Horário;0;0;0;Avenida Goiás, Jataí, Goiás, Brasil.;
+;12/03/2023 07:40;Rodagem Fora do Horário;1;333;0;Avenida Goiás, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 08:10;Ignição Fora do Horário;0;0;2;Avenida Goiás, Jataí, Goiás, Brasil.;
+;12/03/2023 08:38;Ignição Fora do Horário;0;0;0;Rua Professor Barros Cruz, Jataí, Goiás, Brasil.;
+;12/03/2023 09:10;Ignição Fora do Horário;0;0;11;Avenida Ponte Branca, Jataí, Goiás, Brasil.;
+;12/03/2023 09:20;Velocidade Excedida (Virtual);110;117;117;Avenida Petrobrás, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:21;Velocidade Excedida (Virtual);110;115;115;Avenida Petrobrás, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:21;Velocidade Excedida (Virtual);110;112;112;BR-158, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:22;Velocidade Excedida (Virtual);110;134;134;BR-158, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:22;Velocidade Excedida (Virtual);110;117;117;BR-158, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:24;Velocidade Excedida (Virtual);110;120;120;BR-158, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:24;Velocidade Excedida (Virtual);110;116;116;BR-158, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:26;Velocidade Excedida (Virtual);110;114;114;BR-158, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:30;Velocidade Excedida (Virtual);110;125;125;BR-158, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:30;Velocidade Excedida (Virtual);110;121;121;BR-158, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:32;Velocidade Excedida (Virtual);110;114;114;BR-158, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:35;Velocidade Excedida (Virtual);110;122;122;BR-158, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:36;Velocidade Excedida (Virtual);110;112;112;BR-158, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:38;Velocidade Excedida (Virtual);110;111;111;BR-158, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:38;Velocidade Excedida (Virtual);110;111;111;BR-158, Jataí, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 09:47;Ignição Fora do Horário;0;0;0;Rua Capitão Serafim de Barros, Jataí, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 09:55;Velocidade Excedida (Virtual);110;115;115;BR-158, Caiapônia, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 09:55;Velocidade Excedida (Virtual);110;114;114;BR-158, Caiapônia, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 09:57;Velocidade Excedida (Virtual);110;112;112;BR-158, Caiapônia, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 09:57;Velocidade Excedida (Virtual);110;111;111;BR-158, Caiapônia, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 10:00;Velocidade Excedida (Virtual);110;117;117;BR-158, Caiapônia, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 10:01;Velocidade Excedida (Virtual);110;117;117;BR-158, Caiapônia, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 10:16;Velocidade Excedida (Virtual);110;113;113;BR-158, Caiapônia, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 10:42;Ignição Fora do Horário;0;0;0;Rua Elvira de Faria, Caiapônia, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 10:52;Velocidade Excedida (Virtual);110;111;111;GO-221, Caiapônia, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 10:52;Velocidade Excedida (Virtual);110;111;111;GO-221, Caiapônia, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 10:52;Velocidade Excedida (Virtual);110;116;116;GO-221, Caiapônia, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 10:55;Velocidade Excedida (Virtual);110;118;118;GO-221, Caiapônia, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 10:56;Velocidade Excedida (Virtual);110;114;114;GO-221, Caiapônia, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 10:58;Velocidade Excedida (Virtual);110;116;116;GO-221, Caiapônia, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 10:59;Velocidade Excedida (Virtual);110;117;117;GO-221, Palestina de Goiás, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:00;Velocidade Excedida (Virtual);110;112;112;GO-221, Palestina de Goiás, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:05;Velocidade Excedida (Virtual);110;119;119;GO-221, Palestina de Goiás, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:06;Velocidade Excedida (Virtual);110;125;125;GO-221, Palestina de Goiás, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:06;Velocidade Excedida (Virtual);110;116;116;GO-221, Palestina de Goiás, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:08;Velocidade Excedida (Virtual);110;120;120;GO-221, Palestina de Goiás, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:08;Velocidade Excedida (Virtual);110;121;121;GO-221, Palestina de Goiás, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:16;Velocidade Excedida (Virtual);110;136;136;GO-221, Palestina de Goiás, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:16;Velocidade Excedida (Virtual);110;137;137;GO-221, Palestina de Goiás, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:19;Velocidade Excedida (Virtual);110;117;117;GO-221, Palestina de Goiás, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:20;Velocidade Excedida (Virtual);110;115;115;GO-221, Palestina de Goiás, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:27;Velocidade Excedida (Virtual);110;113;113;GO-221, Palestina de Goiás, Goiás, Brasil.;RESERVA 191-RESERVA
+JATAI SER (RVD-9C30);12/03/2023 11:28;Velocidade Excedida (Virtual);110;113;113;GO-221, Palestina de Goiás, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:35;Velocidade Excedida (Virtual);110;112;112;GO-221, Palestina de Goiás, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:39;Velocidade Excedida (Virtual);110;121;121;GO-221, Iporá, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:40;Velocidade Excedida (Virtual);110;124;124;GO-221, Iporá, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:40;Velocidade Excedida (Virtual);110;115;115;GO-221, Iporá, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:43;Velocidade Excedida (Virtual);110;124;124;GO-221, Iporá, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:44;Velocidade Excedida (Virtual);110;121;121;GO-221, Iporá, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:44;Velocidade Excedida (Virtual);110;124;124;GO-221, Iporá, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:45;Velocidade Excedida (Virtual);110;111;111;GO-221, Iporá, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:48;Velocidade Excedida (Virtual);110;120;120;GO-221, Iporá, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 11:50;Velocidade Excedida (Virtual);110;115;115;GO-221, Iporá, Goiás, Brasil.;RESERVA 191-RESERVA
+;12/03/2023 12:18;Ignição Fora do Horário;0;0;0;AVENIDA MATO GROSSO, Iporá, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 12:56;Ignição Fora do Horário;0;0;0;Avenida 15 de Novembro, Iporá, Goiás, Brasil.;
+;12/03/2023 13:04;Velocidade Excedida (Virtual);110;119;119;GO-060, Iporá, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 13:06;Velocidade Excedida (Virtual);110;112;112;GO-060, Iporá, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 13:07;Velocidade Excedida (Virtual);110;129;129;GO-060, Israelândia, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 13:08;Velocidade Excedida (Virtual);110;124;124;GO-060, Israelândia, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 13:10;Velocidade Excedida (Virtual);110;124;124;GO-060, Israelândia, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 13:10;Velocidade Excedida (Virtual);110;121;121;GO-060, Israelândia, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 13:12;Velocidade Excedida (Virtual);110;111;111;GO-060, Israelândia, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 13:12;Velocidade Excedida (Virtual);110;112;112;GO-060, Israelândia, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 14:27;Ignição Fora do Horário;0;0;1;Jaupaci, Goiás, Brasil.;
+;12/03/2023 16:19;Ignição Fora do Horário;0;0;0;Jaupaci, Goiás, Brasil.;
+;12/03/2023 16:40;Ignição Fora do Horário;0;0;4;Jaupaci, Goiás, Brasil.;
+;12/03/2023 16:57;Ignição Fora do Horário;0;0;0;Jaupaci, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 17:40;Ignição Fora do Horário;0;0;4;Jaupaci, Goiás, Brasil.;
+;12/03/2023 18:04;Velocidade Excedida (Virtual);110;112;112;GO-060, Israelândia, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 18:10;Velocidade Excedida (Virtual);110;113;113;GO-060, Israelândia, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 18:11;Velocidade Excedida (Virtual);110;113;113;GO-060, Israelândia, Goiás, Brasil.;DIEGO MIKAELL RODRIGUES DA SILVA-SERVIÇOS
+;12/03/2023 18:26;Ignição Fora do Horário;0;0;0;R. Jacinto Moreira, Iporá, Goiás, Brasil.;
+;12/03/2023 19:13;Ignição Fora do Horário;0;0;0;AVENIDA MATO GROSSO, Iporá, Goiás, Brasil.;
+;12/03/2023 19:17;Ignição Fora do Horário;0;0;0;R. Jacinto Moreira, Iporá, Goiás, Brasil.;
+;12/03/2023 20:11;Ignição Fora do Horário;0;0;0;Avenida Pará, Iporá, Goiás, Brasil.;
+;12/03/2023 21:01;Ignição Fora do Horário;0;0;1;AVENIDA MATO GROSSO, Iporá, Goiás, Brasil.;
+;12/03/2023 22:30;Ignição Fora do Horário;0;0;6;R. Jacinto Moreira, Iporá, Goiás, Brasil.;
+RIO VERDE SER (RBO-0F12);12/03/2023 09:46;Ignição Fora do Horário;0;0;0;Avenida Flamboyant, Rio Verde, Goiás, Brasil.;MAYKON JONATHAN SILVA-SERVIÇOS
+;12/03/2023 09:46;Rodagem Fora do Horário;1;27;0;Avenida Flamboyant, Rio Verde, Goiás, Brasil.;MAYKON JONATHAN SILVA-SERVIÇOS
+;12/03/2023 09:53;Velocidade Excedida (Virtual);110;124;124;BR-452, Rio Verde, Goiás, Brasil.;MAYKON JONATHAN SILVA-SERVIÇOS
+;12/03/2023 09:54;Velocidade Excedida (Virtual);110;135;135;BR-452, Rio Verde, Goiás, Brasil.;MAYKON JONATHAN SILVA-SERVIÇOS
+;12/03/2023 11:10;Ignição Fora do Horário;0;0;4;BR-452, Rio Verde, Goiás, Brasil.;
+;12/03/2023 11:53;Ignição Fora do Horário;0;0;0;BR-452, Rio Verde, Goiás, Brasil.;
+;12/03/2023 11:59;Velocidade Excedida (Virtual);110;116;116;BR-452, Rio Verde, Goiás, Brasil.;
+;12/03/2023 12:01;Velocidade Excedida (Virtual);110;113;113;BR-452, Rio Verde, Goiás, Brasil.;
+FAZENDA GO (RBT-3F73);12/03/2023 07:32;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 07:34;Rodagem Fora do Horário;1;74;6;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 07:44;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 08:31;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 08:50;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 08:54;Velocidade Excedida (Virtual);110;118;118;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 09:12;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+FAZENDA GO (RBT-3F73);12/03/2023 09:21;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 09:31;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 10:06;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 11:06;Parado com Ignição Ligada;10;12;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 11:37;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 13:03;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 14:16;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 14:22;Velocidade Excedida (Virtual);110;118;118;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 15:04;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 15:06;Velocidade Excedida (Virtual);110;129;129;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 15:32;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 15:46;Parado com Ignição Ligada;10;12;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 16:15;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 16:26;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 16:30;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 16:32;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 16:37;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+;12/03/2023 18:10;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";CRISTIANO FERNANDES-FAZENDAS
+JATAI COM (SCF-5H22);12/03/2023 17:41;Ignição Fora do Horário;0;0;0;Rua 33, Jataí, Goiás, Brasil.;ADRIANO LUIS BERTON-COMERCIAL
+;12/03/2023 17:42;Rodagem Fora do Horário;1;7;8;Rua 33, Jataí, Goiás, Brasil.;ADRIANO LUIS BERTON-COMERCIAL
+;12/03/2023 21:18;Ignição Fora do Horário;0;0;0;Rua Tocantins, Jataí, Goiás, Brasil.;ADRIANO LUIS BERTON-COMERCIAL
+;12/03/2023 21:27;Ignição Fora do Horário;0;0;0;Rua Rio Verde, Jataí, Goiás, Brasil.;ADRIANO LUIS BERTON-COMERCIAL
+RIO VERDE SER (SCM-5F00);12/03/2023 16:54;Ignição Fora do Horário;0;0;0;Rua Nove, Rio Verde, Goiás, Brasil.;UMBERTO ANTONIO CAZARIM-SERVIÇOS
+;12/03/2023 16:54;Rodagem Fora do Horário;1;4;6;Avenida Flamboyant, Rio Verde, Goiás, Brasil.;UMBERTO ANTONIO CAZARIM-SERVIÇOS
+;12/03/2023 17:07;Ignição Fora do Horário;0;0;0;Rua Abel Pereira de Castro, Rio Verde, Goiás, Brasil.;UMBERTO ANTONIO CAZARIM-SERVIÇOS
+MINEIROS COM (SCB-8A13);12/03/2023 21:14;Ignição Fora do Horário;0;0;0;7a Avenida, Mineiros, Goiás, Brasil.;DANILO VASCONCELO FERREIRA-COMERCIAL
+JATAI COM (SCF-4J45);12/03/2023 17:02;Ignição Fora do Horário;0;0;0;Rua José Bonfim Milhomens, Caiapônia, Goiás, Brasil.;RENATO DUTRA SERRANO-COMERCIAL
+;12/03/2023 17:21;Ignição Fora do Horário;0;0;0;Rua José Bonfim Milhomens, Caiapônia, Goiás, Brasil.;RENATO DUTRA SERRANO-COMERCIAL
+;12/03/2023 19:07;Ignição Fora do Horário;0;0;0;Rua José Bonfim Milhomens, Caiapônia, Goiás, Brasil.;RENATO DUTRA SERRANO-COMERCIAL
+MINEIROS COM (SCD-1E78);12/03/2023 01:27;Ignição Fora do Horário;0;0;0;Avenida Ino Rezende, Mineiros, Goiás, Brasil.;MAURICIO BORGES DE ARAUJO-COMERCIAL
+;12/03/2023 01:28;Rodagem Fora do Horário;1;14;18;Avenida Ino Rezende, Mineiros, Goiás, Brasil.;MAURICIO BORGES DE ARAUJO-COMERCIAL
+;12/03/2023 01:40;Ignição Fora do Horário;0;0;0;Avenida Antônio Carlos Paniago, Mineiros, Goiás, Brasil.;MAURICIO BORGES DE ARAUJO-COMERCIAL
+;12/03/2023 11:53;Ignição Fora do Horário;0;0;0;Avenida Ino Rezende, Mineiros, Goiás, Brasil.;MAURICIO BORGES DE ARAUJO-COMERCIAL
+;12/03/2023 12:00;Ignição Fora do Horário;0;0;0;Avenida Antônio Carlos Paniago, Mineiros, Goiás, Brasil.;MAURICIO BORGES DE ARAUJO-COMERCIAL
+;12/03/2023 19:32;Ignição Fora do Horário;0;0;0;Avenida Ino Rezende, Mineiros, Goiás, Brasil.;MAURICIO BORGES DE ARAUJO-COMERCIAL
+;12/03/2023 20:13;Ignição Fora do Horário;0;0;0;Rua 18, Mineiros, Goiás, Brasil.;MAURICIO BORGES DE ARAUJO-COMERCIAL
+;12/03/2023 21:39;Ignição Fora do Horário;0;0;0;Rua 18, Mineiros, Goiás, Brasil.;MAURICIO BORGES DE ARAUJO-COMERCIAL
+;12/03/2023 21:49;Ignição Fora do Horário;0;0;0;Avenida Ino Rezende, Mineiros, Goiás, Brasil.;MAURICIO BORGES DE ARAUJO-COMERCIAL
+CHAPADÃO SER (RVD-3H63);12/03/2023 06:08;Ignição Fora do Horário;0;0;0;Avenida Júpiter, Chapadão do Céu, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 06:08;Rodagem Fora do Horário;1;602;0;Avenida Júpiter, Chapadão do Céu, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 06:49;Velocidade Excedida (Virtual);110;112;112;GO-206, Chapadão do Céu, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 06:51;Velocidade Excedida (Virtual);110;111;111;GO-206, Chapadão do Céu, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 09:24;Ignição Fora do Horário;0;0;0;Rua do Ipê, Rio Verde, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 10:29;Ignição Fora do Horário;0;0;0;Rua do Ipê, Rio Verde, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 12:01;Velocidade Excedida (Virtual);110;111;111;"GO-184;BR-060, Jataí, Goiás, Brasil.";NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 12:01;Velocidade Excedida (Virtual);110;112;112;"GO-184;BR-060, Jataí, Goiás, Brasil.";NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 12:01;Velocidade Excedida (Virtual);110;113;113;"GO-184;BR-060, Jataí, Goiás, Brasil.";NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 12:34;Ignição Fora do Horário;0;0;0;Rua Alfredo Rosa, Serranópolis, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 13:29;Velocidade Excedida (Virtual);110;111;111;GO-206, Chapadão do Céu, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 13:29;Velocidade Excedida (Virtual);110;112;112;GO-206, Chapadão do Céu, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+CHAPADÃO SER (RVD-3H63);12/03/2023 13:31;Velocidade Excedida (Virtual);110;111;111;GO-206, Chapadão do Céu, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 13:31;Velocidade Excedida (Virtual);110;111;111;GO-206, Chapadão do Céu, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 13:31;Velocidade Excedida (Virtual);110;116;116;GO-206, Chapadão do Céu, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 13:31;Velocidade Excedida (Virtual);110;114;114;GO-206, Chapadão do Céu, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 13:49;Ignição Fora do Horário;0;0;0;Rua Ipê, Chapadão do Céu, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+;12/03/2023 13:59;Velocidade Excedida (Virtual);110;111;111;GO-050, Chapadão do Céu, Goiás, Brasil.;NELSON ANTONIO PRANDO-SERVIÇOS
+CHAPADÃO (RTB-4D40);12/03/2023 19:04;Ignição Fora do Horário;0;0;0;Rua Lobo Guará, Chapadão do Céu, Goiás, Brasil.;
+;12/03/2023 19:15;Parado com Ignição Ligada;10;11;0;Rua Lobo Guará, Chapadão do Céu, Goiás, Brasil.;WANDER DE CARVALHO FILHO 223-AFS
+RIO VERDE SER (RVD-4I21);12/03/2023 09:08;Ignição Fora do Horário;0;0;0;Avenida da Cana, Santa Helena de Goiás, Goiás, Brasil.;
+;12/03/2023 09:08;Rodagem Fora do Horário;1;5;0;Avenida da Cana, Santa Helena de Goiás, Goiás, Brasil.;WEDER APARACIDO DA SILVA-SERVIÇOS
+;12/03/2023 11:46;Ignição Fora do Horário;0;0;0;Rua Parana, Santa Helena de Goiás, Goiás, Brasil.;WEDER APARACIDO DA SILVA-SERVIÇOS
+;12/03/2023 21:24;Ignição Fora do Horário;0;0;0;Avenida da Cana, Santa Helena de Goiás, Goiás, Brasil.;
+CHAPADÃO COM (SCB-8A23);12/03/2023 11:27;Ignição Fora do Horário;0;0;0;Rua Guapeva, Chapadão do Céu, Goiás, Brasil.;CLAUDINEI COSTA-COMERCIAL
+;12/03/2023 11:28;Rodagem Fora do Horário;1;11;11;Avenida Netuno, Chapadão do Céu, Goiás, Brasil.;CLAUDINEI COSTA-COMERCIAL
+;12/03/2023 17:44;Ignição Fora do Horário;0;0;0;Rua Guapeva, Chapadão do Céu, Goiás, Brasil.;CLAUDINEI COSTA-COMERCIAL
+;12/03/2023 21:33;Ignição Fora do Horário;0;0;0;Rua Guapeva, Chapadão do Céu, Goiás, Brasil.;CLAUDINEI COSTA-COMERCIAL
+JATAI SER (RTG-3G17);12/03/2023 08:49;Ignição Fora do Horário;0;0;0;Avenida Goiás, Jataí, Goiás, Brasil.;
+;12/03/2023 08:49;Rodagem Fora do Horário;1;2;0;Avenida Goiás, Jataí, Goiás, Brasil.;HELIELTON FREITAS SILVA-SERVIÇOS
+;12/03/2023 09:08;Ignição Fora do Horário;0;0;12;Avenida Goiás, Jataí, Goiás, Brasil.;
+;12/03/2023 09:30;Ignição Fora do Horário;0;0;0;Avenida Goiás, Jataí, Goiás, Brasil.;
+;12/03/2023 09:41;Ignição Fora do Horário;0;0;6;Avenida Goiás, Jataí, Goiás, Brasil.;
+RIO VERDE SER (RUE-0F46);12/03/2023 07:31;Ignição Fora do Horário;0;0;0;Rodovia Sul Goiana, Rio Verde, Goiás, Brasil.;
+;12/03/2023 07:31;Rodagem Fora do Horário;1;237;0;Rodovia Sul Goiana, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 08:53;Ignição Fora do Horário;0;0;0;Rua Nove, Rio Verde, Goiás, Brasil.;
+;12/03/2023 09:13;Velocidade Excedida (Virtual);110;129;129;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:14;Velocidade Excedida (Virtual);110;130;130;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:14;Velocidade Excedida (Virtual);110;118;118;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:14;Velocidade Excedida (Virtual);110;124;124;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:14;Velocidade Excedida (Virtual);110;118;118;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:15;Velocidade Excedida (Virtual);110;123;123;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:15;Velocidade Excedida (Virtual);110;118;118;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:20;Velocidade Excedida (Virtual);110;124;124;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:20;Velocidade Excedida (Virtual);110;118;118;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:22;Velocidade Excedida (Virtual);110;119;119;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:22;Velocidade Excedida (Virtual);110;125;125;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:22;Velocidade Excedida (Virtual);110;118;118;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:23;Velocidade Excedida (Virtual);110;120;120;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:23;Velocidade Excedida (Virtual);110;118;118;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:23;Velocidade Excedida (Virtual);110;118;118;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:23;Velocidade Excedida (Virtual);110;121;121;GO-174, Rio Verde, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:23;Velocidade Excedida (Virtual);110;118;118;GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:25;Velocidade Excedida (Virtual);110;115;115;GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:26;Velocidade Excedida (Virtual);110;126;126;GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:27;Velocidade Excedida (Virtual);110;121;121;GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:27;Velocidade Excedida (Virtual);110;118;118;GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:27;Velocidade Excedida (Virtual);110;119;119;GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:27;Velocidade Excedida (Virtual);110;119;119;GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:40;Velocidade Excedida (Virtual);110;115;115;Rodovia GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:41;Velocidade Excedida (Virtual);110;114;114;Rodovia GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:41;Velocidade Excedida (Virtual);110;122;122;Rodovia GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+RIO VERDE SER (RUE-0F46);12/03/2023 09:41;Velocidade Excedida (Virtual);110;118;118;Rodovia GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:42;Velocidade Excedida (Virtual);110;111;111;Rodovia GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:46;Velocidade Excedida (Virtual);110;123;123;Rodovia GO-174, Amorinópolis, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:46;Velocidade Excedida (Virtual);110;123;123;Rodovia GO-174, Amorinópolis, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:46;Velocidade Excedida (Virtual);110;118;118;Rodovia GO-174, Amorinópolis, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:47;Velocidade Excedida (Virtual);110;119;119;Rodovia GO-174, Amorinópolis, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:47;Velocidade Excedida (Virtual);110;118;118;Rodovia GO-174, Amorinópolis, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:47;Velocidade Excedida (Virtual);110;118;118;Rodovia GO-174, Amorinópolis, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:51;Velocidade Excedida (Virtual);110;115;115;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:52;Velocidade Excedida (Virtual);110;124;124;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:52;Velocidade Excedida (Virtual);110;123;123;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:52;Velocidade Excedida (Virtual);110;119;119;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:54;Velocidade Excedida (Virtual);110;121;121;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:54;Velocidade Excedida (Virtual);110;122;122;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:55;Velocidade Excedida (Virtual);110;121;121;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:56;Velocidade Excedida (Virtual);110;127;127;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:57;Velocidade Excedida (Virtual);110;127;127;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:58;Velocidade Excedida (Virtual);110;129;129;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:58;Velocidade Excedida (Virtual);110;118;118;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 09:59;Velocidade Excedida (Virtual);110;114;114;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 10:00;Velocidade Excedida (Virtual);110;122;122;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 10:00;Velocidade Excedida (Virtual);110;120;120;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 10:00;Velocidade Excedida (Virtual);110;120;120;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 10:32;Ignição Fora do Horário;0;0;0;GO-050, Montividiu, Goiás, Brasil.;
+;12/03/2023 11:48;Ignição Fora do Horário;0;0;0;GO-050, Montividiu, Goiás, Brasil.;
+;12/03/2023 12:24;Ignição Fora do Horário;0;0;0;GO-050, Montividiu, Goiás, Brasil.;
+;12/03/2023 12:40;Velocidade Excedida (Virtual);110;115;115;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:42;Velocidade Excedida (Virtual);110;115;115;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:43;Velocidade Excedida (Virtual);110;118;118;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:43;Velocidade Excedida (Virtual);110;118;118;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:43;Velocidade Excedida (Virtual);110;117;117;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:43;Velocidade Excedida (Virtual);110;129;129;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:44;Velocidade Excedida (Virtual);110;124;124;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:44;Velocidade Excedida (Virtual);110;120;120;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:45;Velocidade Excedida (Virtual);110;112;112;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:46;Velocidade Excedida (Virtual);110;114;114;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:47;Velocidade Excedida (Virtual);110;124;124;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:47;Velocidade Excedida (Virtual);110;125;125;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:47;Velocidade Excedida (Virtual);110;118;118;GO-050, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:51;Velocidade Excedida (Virtual);110;124;124;Rodovia GO-174, Amorinópolis, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:51;Velocidade Excedida (Virtual);110;123;123;Rodovia GO-174, Amorinópolis, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 12:51;Velocidade Excedida (Virtual);110;118;118;Rodovia GO-174, Amorinópolis, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 13:16;Velocidade Excedida (Virtual);110;117;117;GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 13:16;Velocidade Excedida (Virtual);110;126;126;GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 13:16;Velocidade Excedida (Virtual);110;119;119;GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 13:17;Velocidade Excedida (Virtual);110;127;127;GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 13:17;Velocidade Excedida (Virtual);110;124;124;GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 13:17;Velocidade Excedida (Virtual);110;118;118;GO-174, Montividiu, Goiás, Brasil.;CARLOS ALBERTO SOUSA VENANCIO-SERVIÇOS
+;12/03/2023 15:45;Ignição Fora do Horário;0;0;0;Rodovia Sul Goiana, Rio Verde, Goiás, Brasil.;
+;12/03/2023 19:11;Ignição Fora do Horário;0;0;0;Rodovia Sul Goiana, Rio Verde, Goiás, Brasil.;
+RIO VERDE SER (PYZ-9422);12/03/2023 13:39;Ignição Fora do Horário;0;0;1;Avenida Juscelino Kubistcheck de Oliveira, Rio Verde, Goiás, Brasil.;
+;12/03/2023 13:39;Rodagem Fora do Horário;1;17;1;Rua 20, Rio Verde, Goiás, Brasil.;JOÃO VITOR ASSIS SALES-SERVIÇOS
+;12/03/2023 22:02;Ignição Fora do Horário;0;0;0;Rua do Ipê, Rio Verde, Goiás, Brasil.;JOÃO VITOR ASSIS SALES-SERVIÇOS
+;12/03/2023 22:26;Ignição Fora do Horário;0;0;0;Avenida José Walter, Rio Verde, Goiás, Brasil.;JOÃO VITOR ASSIS SALES-SERVIÇOS
+RIO VERDE PÇA (RTM-6J90);12/03/2023 07:26;Ignição Fora do Horário;0;0;1;Rua do Buriti, Rio Verde, Goiás, Brasil.;
+;12/03/2023 07:26;Rodagem Fora do Horário;1;20;2;Rua do Buriti, Rio Verde, Goiás, Brasil.;
+;12/03/2023 07:35;Ignição Fora do Horário;0;0;0;Avenida Rio Verde, Rio Verde, Goiás, Brasil.;FLAVIA REZENDE MARTINS RONDON-204 PEÇAS
+;12/03/2023 07:42;Velocidade Excedida (Virtual);110;119;119;BR-060, Rio Verde, Goiás, Brasil.;FLAVIA REZENDE MARTINS RONDON-204 PEÇAS
+;12/03/2023 07:42;Velocidade Excedida (Virtual);110;118;118;BR-060, Rio Verde, Goiás, Brasil.;FLAVIA REZENDE MARTINS RONDON-204 PEÇAS
+;12/03/2023 12:13;Ignição Fora do Horário;0;0;4;Rua Nove, Rio Verde, Goiás, Brasil.;
+;12/03/2023 15:12;Ignição Fora do Horário;0;0;0;Rua do Buriti, Rio Verde, Goiás, Brasil.;
+RIO VERDE COM (SCL-3J33);12/03/2023 08:32;Ignição Fora do Horário;0;0;0;Rua Josias Teixeira Lobo, Jussara, Goiás, Brasil.;JOSE NORMANDO-COMERCIAL
+;12/03/2023 08:35;Ignição Fora do Horário;0;0;0;Rua Josias Teixeira Lobo, Jussara, Goiás, Brasil.;JOSE NORMANDO-COMERCIAL
+;12/03/2023 08:54;Ignição Fora do Horário;0;0;0;Rua Josias Teixeira Lobo, Jussara, Goiás, Brasil.;JOSE NORMANDO-COMERCIAL
+;12/03/2023 13:44;Ignição Fora do Horário;0;0;0;Rua Josias Teixeira Lobo, Jussara, Goiás, Brasil.;JOSE NORMANDO-COMERCIAL
+;12/03/2023 21:32;Ignição Fora do Horário;0;0;0;Rua Josias Teixeira Lobo, Jussara, Goiás, Brasil.;JOSE NORMANDO-COMERCIAL
+RIO VERDE COM (SCL-4A13);12/03/2023 10:22;Ignição Fora do Horário;0;0;0;Rua Bougainville, Rio Verde, Goiás, Brasil.;EDUARDO GUIMARAES CARVALHO-COMERCIAL
+;12/03/2023 10:25;Ignição Fora do Horário;0;0;0;Rua Bougainville, Rio Verde, Goiás, Brasil.;EDUARDO GUIMARAES CARVALHO-COMERCIAL
+;12/03/2023 10:29;Ignição Fora do Horário;0;0;0;Rua Bougainville, Rio Verde, Goiás, Brasil.;EDUARDO GUIMARAES CARVALHO-COMERCIAL
+;12/03/2023 12:18;Ignição Fora do Horário;0;0;0;Rua Bougainville, Rio Verde, Goiás, Brasil.;EDUARDO GUIMARAES CARVALHO-COMERCIAL
+;12/03/2023 14:34;Ignição Fora do Horário;0;0;0;Rua Bougainville, Rio Verde, Goiás, Brasil.;EDUARDO GUIMARAES CARVALHO-COMERCIAL
+;12/03/2023 21:42;Ignição Fora do Horário;0;0;0;Rua Bougainville, Rio Verde, Goiás, Brasil.;EDUARDO GUIMARAES CARVALHO-COMERCIAL
+FAZENDA GO (PRN-9230);12/03/2023 10:01;Ignição Fora do Horário;0;0;1;Avenida Sidor Ivanoff, Rio Verde, Goiás, Brasil.;GABRIEL HENRIQUE LEMES LOPES-FAZENDAS
+;12/03/2023 10:01;Rodagem Fora do Horário;1;20;1;Avenida Sidor Ivanoff, Rio Verde, Goiás, Brasil.;GABRIEL HENRIQUE LEMES LOPES-FAZENDAS
+;12/03/2023 10:05;Ignição Fora do Horário;0;0;0;Avenida Sidor Ivanoff, Rio Verde, Goiás, Brasil.;GABRIEL HENRIQUE LEMES LOPES-FAZENDAS
+;12/03/2023 11:20;Ignição Fora do Horário;0;0;0;Avenida Sidor Ivanoff, Rio Verde, Goiás, Brasil.;GABRIEL HENRIQUE LEMES LOPES-FAZENDAS
+;12/03/2023 13:10;Ignição Fora do Horário;0;0;17;Avenida Sidor Ivanoff, Rio Verde, Goiás, Brasil.;GABRIEL HENRIQUE LEMES LOPES-FAZENDAS
+;12/03/2023 14:05;Ignição Fora do Horário;0;0;0;Avenida Sidor Ivanoff, Rio Verde, Goiás, Brasil.;GABRIEL HENRIQUE LEMES LOPES-FAZENDAS
+;12/03/2023 14:11;Ignição Fora do Horário;0;0;0;Rua Iron Nascimento, Rio Verde, Goiás, Brasil.;GABRIEL HENRIQUE LEMES LOPES-FAZENDAS
+;12/03/2023 14:16;Ignição Fora do Horário;0;0;0;Avenida Sidor Ivanoff, Rio Verde, Goiás, Brasil.;GABRIEL HENRIQUE LEMES LOPES-FAZENDAS
+;12/03/2023 14:23;Ignição Fora do Horário;0;0;0;Avenida Sidor Ivanoff, Rio Verde, Goiás, Brasil.;GABRIEL HENRIQUE LEMES LOPES-FAZENDAS
+;12/03/2023 14:36;Ignição Fora do Horário;0;0;0;Avenida Sidor Ivanoff, Rio Verde, Goiás, Brasil.;GABRIEL HENRIQUE LEMES LOPES-FAZENDAS
+;12/03/2023 18:18;Ignição Fora do Horário;0;0;0;Rua M, Rio Verde, Goiás, Brasil.;GABRIEL HENRIQUE LEMES LOPES-FAZENDAS
+;12/03/2023 18:37;Ignição Fora do Horário;0;0;0;Avenida José Walter, Rio Verde, Goiás, Brasil.;GABRIEL HENRIQUE LEMES LOPES-FAZENDAS
+CHAPADÃO SER (RUB-9A92);12/03/2023 10:18;Ignição Fora do Horário;0;0;0;Avenida Peixes, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 10:18;Rodagem Fora do Horário;1;26;10;Avenida Peixes, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 10:22;Ignição Fora do Horário;0;0;0;Rua Ingá, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 11:26;Ignição Fora do Horário;0;0;0;Rua I, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 11:41;Ignição Fora do Horário;0;0;0;Avenida Marte, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 11:53;Ignição Fora do Horário;0;0;0;Avenida 1, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 12:31;Ignição Fora do Horário;0;0;0;GO-206, Baús, Chapadão do Céu, Mato Grosso do Sul, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 12:35;Ignição Fora do Horário;0;0;0;GO-206, Baús, Chapadão do Céu, Mato Grosso do Sul, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 12:44;Ignição Fora do Horário;0;0;0;Rua Ingá, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 12:45;Ignição Fora do Horário;0;0;0;Rua Ingá, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 12:56;Ignição Fora do Horário;0;0;0;Avenida Peixes, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 12:58;Ignição Fora do Horário;0;0;0;Rua Ingá, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 13:27;Ignição Fora do Horário;0;0;0;Rua A, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 13:34;Ignição Fora do Horário;0;0;0;Rua Ipê, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 13:43;Ignição Fora do Horário;0;0;0;Rua Ipê, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 15:09;Ignição Fora do Horário;0;0;0;Rua A, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+CHAPADÃO SER (RUB-9A92);12/03/2023 20:24;Ignição Fora do Horário;0;0;0;Rua I, Chapadão do Céu, Goiás, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+;12/03/2023 21:53;Ignição Fora do Horário;0;0;0;GO-206, Baús, Chapadão do Céu, Mato Grosso do Sul, Brasil.;MARCOS VINICIUS SILVA AMORIM-PEÇAS
+FAZENDA MT (PRM-4436);12/03/2023 10:26;Rodagem Fora do Horário;1;15;25;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 10:49;Parado com Ignição Ligada;10;10;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+FAZENDA MT (NFZ-5A49);12/03/2023 07:25;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 07:25;Rodagem Fora do Horário;1;21;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";JEAN GUIMARAES DO PRADO-ADMINISTRATIVO
+;12/03/2023 07:31;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 08:27;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 08:35;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";
+;12/03/2023 08:44;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";JEAN GUIMARAES DO PRADO-ADMINISTRATIVO
+;12/03/2023 08:46;Ignição Fora do Horário;0;0;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";JEAN GUIMARAES DO PRADO-ADMINISTRATIVO
+FAZENDA MT (PQY-6H02);12/03/2023 06:54;Rodagem Fora do Horário;1;38;0;"BR-158;BR-242, Bom Jesus do Araguaia, Mato Grosso, Brasil.";HERVANIO MIRANDA DE OLIVEIRA-FAZENDAS
