@@ -29,7 +29,8 @@ headers = {'User-Agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 
 options = Options()
-options.headless = True #executa de forma visivel ou não
+#options.headless = True #executa de forma visivel ou não
+options.headless = add_argument("--headless=new")
 navegador = webdriver.Chrome(options=options)
 link = "https://app.wefleet.com.br/site/wmrastreamento/Account/Login?ReturnUrl=http://app.wefleet.com.br/site/wmrastreamento#/configuracoes/usuarios"
 navegador.get(url=link)
